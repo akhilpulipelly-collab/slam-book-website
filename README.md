@@ -292,14 +292,6 @@ Edit CSS variables at the top of `index.html`:
 
 ---
 
-## 📫 Contact / Support
-
-- For questions, suggestions, or support, please open an issue on the [GitHub repository](https://github.com/Tarun-Chowdary/slam-book-website/issues).
-- You can also reach out via email: yegi.2992@gmail.com
-- 🌐 **Live Site:** [slam-book-website.vercel.app](https://slam-book-website.vercel.app/)
-
----
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
